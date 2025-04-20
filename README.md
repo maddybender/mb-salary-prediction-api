@@ -1,0 +1,1 @@
+# mb-salary-prediction-api
